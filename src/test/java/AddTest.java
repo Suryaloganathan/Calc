@@ -7,7 +7,7 @@ public class AddTest {
 	@Test
 	public void test() {
 		int result = Calc.add(10,5);
-		assertEquals(15, result);
+		assertEquals(20, result);
 	}
 
 }
